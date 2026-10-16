@@ -1,6 +1,6 @@
 cask "nerdwave" do
-  version "1.6.3"
-  sha256 "af6f07c4f82caa253d904efbb9838bfcaed93d12037db6feb4f32678c91dffa1"
+  version "1.7.0"
+  sha256 "84cb9d13cf27b3b921f840b7cfd8e66201b6fd04b9c2008da794e2779cd62037"
 
   url "https://github.com/grumpitect/nerdwave/releases/download/v#{version}/Nerdwave-#{version}.zip"
   name "Nerdwave"
